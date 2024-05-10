@@ -1,0 +1,17 @@
+{
+  "name": "assessments",
+  "version": "1.0.0",
+  "description": "Assessment for DRIVEN",
+  "main": "userParse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glen Sturge",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^5.0.1",
+    "mysql2": "^3.9.7"
+  }
+}
