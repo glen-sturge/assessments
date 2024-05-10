@@ -28,10 +28,6 @@ explain your thought process on creating the database schema and your parser
         changedRows: 0
     }
 
-    Right now, the script is not exiting. I believe it has to do with the db connection. When simply parsing and logging results the script exits fine.
-
-
-
     As for finding how many are between the ages of 18 and 21 I went into workbench and queried
 
     SELECT
